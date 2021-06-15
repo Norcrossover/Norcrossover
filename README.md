@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Norcrossover
-- 👀 I’m interested in web and software development.
-- 🌱 I’m currently learning Python Turtle for my Star Quilt Project.
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning how to make a web page and work with databases for my next project. 
 - 💞️ I’m looking to collaborate on any cool project.
 - 📫 Reach me at kobenorcross@gmail.com
 
