@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Norcrossover
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning how to make a web page and work with databases for my next project. 
-- 💞️ I’m looking to collaborate on any cool project.
+- 👋 Hi, I’m @Norcrossover (Kobe)
+- 👀 I’m interested in Web Development. (currently front end)
+- 🌱 I’m currently using the full web dev tool set to build a Pokemon themed clock. (Mudkip in particular)
+- 💞️ I’m looking for individuals that may want to collaborate on future projects. (that are interesting)
 - 📫 Reach me at kobenorcross@gmail.com
 
 <!---
