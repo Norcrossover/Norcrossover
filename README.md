@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Norcrossover (Kobe)
 - 👀 I’m interested in Web Development. (currently front end)
-- 🌱 I’m currently using JS for the development of my Pokemon Database.
+- 🌱 I’m currently learning and using JS for the development of my Pokemon Database.
 - 📫 Reach me at kobenorcross@gmail.com or SirMudkipz#7373 (Discord)
 
 <!---
