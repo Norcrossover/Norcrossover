@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Norcrossover (Kobe)
-- 👀 I’m interested in Web Development. (currently front end)
-- 🌱 I’m currently learning and using JS for the development of my Pokemon Database.
-- 📫 Reach me at kobenorcross@gmail.com or SirMudkipz#7373 (Discord)
+- 👀 I’m interested in Simulant Modeling through Python.
+- 🌱 I’m currently learning and using various Python libraries to solve systems of equations representing flies lifespans and a way to represent it visually for the user. 
+- 📫 Reach me at kobenorcross@gmail.com
 
 <!---
 Norcrossover/Norcrossover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
