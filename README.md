@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Norcrossover (Kobe)
 - 👀 I’m interested in Simulant Modeling through Python.
-- 🌱 I’m currently learning and using various Python libraries to solve systems of equations representing flies lifespans and a way to represent it visually for the user. 
+- 🌱 I’m currently learning and using various Python libraries to solve systems of equations representing flies lifespans and learning ways to represent this data visually for the user. 
 - 📫 Reach me at kobenorcross@gmail.com
 
 <!---
