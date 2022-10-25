@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Norcrossover (Kobe)
 - 👀 Interested in increasing pesronal software process development for future career opportunity.
-- 🌱 I’m currently kernel hacking and developing my first group project! (jk not hacking, but kernel deving) 
+- 🌱 I’m currently kernel hacking and developing my first group project! (jk not hacking, but kernel dev'ing) 
 - 📫 Reach me at kobenorcross@gmail.com
 
 <!---
